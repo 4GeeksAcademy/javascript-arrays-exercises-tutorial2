@@ -10,3 +10,7 @@ let tasks = [
 ];
 
 // Your code here
+let finishtasks = tasks.filter(function(item) {
+  return (item.done === true)
+});
+console.log(finishtasks);

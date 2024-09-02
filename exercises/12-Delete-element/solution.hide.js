@@ -9,3 +9,4 @@ function deletePerson(name) {
 console.log(deletePerson('daniella'));
 console.log(deletePerson('juan'));
 console.log(deletePerson('emilio'));
+
